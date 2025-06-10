@@ -42,12 +42,37 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
+<!-- My GitHub Stats -->
+# 🌟 GitHub Overview
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binibiningjenna&show_icons=true&locale=en&layout=compact" alt="binibiningjenna" /></p>
+<p align="left" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binibiningjenna&show_icons=true&locale=en" alt="binibiningjenna" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=binibiningjenna&show_icons=true&theme=tokyonight&custom_title=My%20GitHub%20Stats&v=6" alt="binibiningjenna's GitHub stats" height="180" style="border: none;" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binibiningjenna&" alt="binibiningjenna" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binibiningjenna&layout=compact&theme=tokyonight&card_width=320&v=6" alt="Top Languages" height="180" style="border: none;" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=binibiningjenna&limit=5&theme=flat&combine_all_yearly_contributions=true)
+</p>
+
+<br> 
+
+<!-- My Repositories -->
+# My Repositories
+<div align="left">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binibiningjenna&repo=binibiningjenna.github.io&theme=tokyonight&v=6)](https://github.com/binibiningjenna/binibiningjenna.github.io) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binibiningjenna&repo=WD-BE&theme=tokyonight&v=6)](https://github.com/binibiningjenna/WD-BE) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binibiningjenna&repo=First-Edition&theme=tokyonight&v=6)](https://github.com/binibiningjenna/First-Edition) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binibiningjenna&repo=jennamiles.github.io&theme=tokyonight&v=6)](https://github.com/binibiningjenna/jennamiles.github.io) 
+
+</div>
+
+<!-- GitHub Streak Stats -->
+# My  GitHub Streak
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binibiningjenna&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="binibiningjenna" />
+</p>
+
+<!-- Top Contributed Repo -->
+# Top Contributed Repo
+<p align="left">
+  <img src="https://github-contributor-stats.vercel.app/api?username=binibiningjenna&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</p>
