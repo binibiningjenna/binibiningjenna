@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **atienzajennamiles@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+# CONNECT WITH ME:
 <p align="left">
 <a href="https://linkedin.com/in/jenna-miles-reyes-4593b1246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jenna-miles-reyes-4593b1246/" height="30" width="40" /></a>
 <a href="https://fb.com/jennamiles.reyes.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jennamiles.reyes.1" height="30" width="40" /></a>
@@ -25,7 +25,7 @@
 <a href="https://www.youtube.com/@binibining_jenna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="binibining jenna" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+# LANGUAGES AND TOOLS:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -43,22 +43,19 @@
 </p>
 
 <!-- My GitHub Stats -->
-# 🌟 GitHub Overview
-
+# GITHUB OVERVIEW
 <p align="left" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
   <img src="https://github-readme-stats.vercel.app/api?username=binibiningjenna&show_icons=true&theme=tokyonight&custom_title=My%20GitHub%20Stats&v=6" alt="binibiningjenna's GitHub stats" height="180" style="border: none;" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binibiningjenna&layout=compact&theme=tokyonight&card_width=320&v=6" alt="Top Languages" height="180" style="border: none;" />
-
 </p>
 
 <br> 
 
 <!-- My Repositories -->
-# My Repositories
+# MY REPOSITORIES
 <div align="left">
-
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binibiningjenna&repo=binibiningjenna.github.io&theme=tokyonight&v=6)](https://github.com/binibiningjenna/binibiningjenna.github.io) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binibiningjenna&repo=WD-BE&theme=tokyonight&v=6)](https://github.com/binibiningjenna/WD-BE) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binibiningjenna&repo=First-Edition&theme=tokyonight&v=6)](https://github.com/binibiningjenna/First-Edition) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binibiningjenna&repo=jennamiles.github.io&theme=tokyonight&v=6)](https://github.com/binibiningjenna/jennamiles.github.io) 
@@ -66,13 +63,13 @@
 </div>
 
 <!-- GitHub Streak Stats -->
-# My  GitHub Streak
+# MY GITHUB STREAK
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=binibiningjenna&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="binibiningjenna" />
 </p>
 
 <!-- Top Contributed Repo -->
-# Top Contributed Repo
+# TOP CONTRIBUTED REPO
 <p align="left">
   <img src="https://github-contributor-stats.vercel.app/api?username=binibiningjenna&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
