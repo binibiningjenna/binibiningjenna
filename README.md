@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [GymBoost](https://github.com/ProjectGymBoost/GymBoost.com)
 
-- 🌱 I’m currently learning **I’m currently learning web development basics and exploring new tools and technologies.**
+- 🌱 I’m currently learning **web development basics and exploring new tools and technologies.**
 
 - 👨‍💻 All of my projects are available at [https://binibiningjenna.github.io/](https://binibiningjenna.github.io/)
 
-- 💬 Ask me about **Ask me about my journey in web development, what I'm learning, and what I'm working on**
+- 💬 Ask me about **my journey in web development, what I'm learning, and what I'm working on**
 
 - 📫 How to reach me **atienzajennamiles@gmail.com**
 
