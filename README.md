@@ -61,12 +61,6 @@
 
 </div>
 
-<!-- GitHub Streak Stats -->
-# MY GITHUB STREAK
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binibiningjenna&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="binibiningjenna" />
-</p>
-
 <!-- Top Contributed Repo -->
 # TOP CONTRIBUTED REPO
 <p align="left">
