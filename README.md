@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **web development basics and exploring new tools and technologies.**
 
-- 👨‍💻 All of my projects are available at [https://binibiningjenna.github.io/](https://binibiningjenna.github.io/)
+- 👨‍💻 All of my projects are available at [jennareyes.vercel.app](https://jennareyes.vercel.app/)
 
 - 💬 Ask me about **my journey in web development, what I'm learning, and what I'm working on**
 
