@@ -1,68 +1,36 @@
 <h1 align="center">Hi 👋, I'm Jenna Miles Reyes</h1>
-<div align="center">
-  <img src="https://github.com/binibiningjenna/binibiningjenna/blob/main/banner.png" alt="Banner">
-</div>
-
 <h3 align="center">I’m an aspiring web developer currently pursuing a Bachelor of Science in Information Technology at the Polytechnic University of the Philippines, Sto. Tomas. I have a growing passion for crafting clean, user-friendly websites and am eager to expand my knowledge in web technologies. Through continuous learning and practice, I’m dedicated to building the skills and expertise needed to thrive in this field.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=binibiningjenna&label=Profile%20views&color=0e75b6&style=flat" alt="binibiningjenna" /> </p>
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on [GymBoost](https://github.com/ProjectGymBoost/GymBoost.com)
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-- 🌱 I’m currently learning **web development basics and exploring new tools and technologies.**
+### **Backend**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 👨‍💻 All of my projects are available at [jennareyes.vercel.app](https://jennareyes.vercel.app/)
+### **Design & UI/UX**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-- 💬 Ask me about **my journey in web development, what I'm learning, and what I'm working on**
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- 📫 How to reach me **atienzajennamiles@gmail.com**
+---
 
-# CONNECT WITH ME:
-<p align="left">
-<a href="https://linkedin.com/in/jenna-miles-reyes-4593b1246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jenna-miles-reyes-4593b1246/" height="30" width="40" /></a>
-<a href="https://fb.com/jennamiles.reyes.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jennamiles.reyes.1" height="30" width="40" /></a>
-<a href="https://instagram.com/binibining_jenna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="binibining_jenna" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@binibining_jenna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="binibining jenna" height="30" width="40" /></a>
-</p>
+## 📫 Connect with Me
 
-# LANGUAGES AND TOOLS:
-<p align="left">
-  <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
-
-<!-- My GitHub Stats -->
-# GITHUB OVERVIEW
-<p align="left" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=binibiningjenna&show_icons=true&theme=tokyonight&custom_title=My%20GitHub%20Stats&v=6" alt="binibiningjenna's GitHub stats" height="180" style="border: none;" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binibiningjenna&layout=compact&theme=tokyonight&card_width=320&v=6" alt="Top Languages" height="180" style="border: none;" />
-</p>
-
-<br> 
-
-<!-- My Repositories -->
-# MY REPOSITORIES
-<div align="left">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binibiningjenna&repo=binibiningjenna.github.io&theme=tokyonight&v=6)](https://github.com/binibiningjenna/binibiningjenna.github.io) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binibiningjenna&repo=WD-BE&theme=tokyonight&v=6)](https://github.com/binibiningjenna/WD-BE) 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binibiningjenna&repo=First-Edition&theme=tokyonight&v=6)](https://github.com/binibiningjenna/First-Edition) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binibiningjenna&repo=jennamiles.github.io&theme=tokyonight&v=6)](https://github.com/binibiningjenna/jennamiles.github.io) 
-
-</div>
-
-<!-- Top Contributed Repo -->
-# TOP CONTRIBUTED REPO
-<p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=binibiningjenna&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/binibiningjenna)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenna-miles-reyes-4593b1246/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jennareyes.vercel.app/)
