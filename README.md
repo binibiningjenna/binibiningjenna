@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jenna Miles Reyes</h1>
+<h1 align="center">Hi, I'm Jenna Miles Reyes</h1>
 <h3 align="center">I’m an aspiring web developer currently pursuing a Bachelor of Science in Information Technology at the Polytechnic University of the Philippines, Sto. Tomas. I have a growing passion for crafting clean, user-friendly websites and am eager to expand my knowledge in web technologies. Through continuous learning and practice, I’m dedicated to building the skills and expertise needed to thrive in this field.</h3>
 
 ## 💻 Tech Stack
